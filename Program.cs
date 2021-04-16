@@ -62,7 +62,7 @@ namespace Courier_Management_System
                         break;
 
                     default:
-                        Console.WriteLine("Invalid Choice");
+                        Console.WriteLine("Invalid Input.");
                         break;
                 }
             }
