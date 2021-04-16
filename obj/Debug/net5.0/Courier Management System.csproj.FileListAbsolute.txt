@@ -1,0 +1,32 @@
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\Courier Management System.exe
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\Courier Management System.deps.json
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\Courier Management System.runtimeconfig.json
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\Courier Management System.runtimeconfig.dev.json
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\ref\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\bin\Debug\net5.0\Courier Management System.pdb
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.csprojAssemblyReference.cache
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.AssemblyInfoInputs.cache
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.AssemblyInfo.cs
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.csproj.CoreCompileInputs.cache
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\ref\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.pdb
+C:\Users\HannahBilog\Desktop\c# project\Courier Management System\obj\Debug\net5.0\Courier Management System.genruntimeconfig.cache
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\Courier Management System.exe
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\Courier Management System.deps.json
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\Courier Management System.runtimeconfig.json
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\Courier Management System.runtimeconfig.dev.json
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\ref\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\Courier Management System\bin\Debug\net5.0\Courier Management System.pdb
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.csprojAssemblyReference.cache
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.AssemblyInfoInputs.cache
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.AssemblyInfo.cs
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.csproj.CoreCompileInputs.cache
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\ref\Courier Management System.dll
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.pdb
+C:\Users\HannahBilog\Desktop\Courier Management System\obj\Debug\net5.0\Courier Management System.genruntimeconfig.cache
