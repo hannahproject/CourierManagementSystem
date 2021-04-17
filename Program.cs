@@ -10,7 +10,7 @@ namespace Courier_Management_System
             char choice;
             int addClient, contactLength;
 
-            Console.WriteLine("Welcome to iDrop! Log into your account now!");
+            Console.WriteLine("Welcome to Katok! Log into your account now!");
 
             Console.Write("First Name: ");
             riderFName = Console.ReadLine();
@@ -24,7 +24,7 @@ namespace Courier_Management_System
 
             if(contactLength==11){
 
-                Console.WriteLine("\nWelcome to your iDrop Account, " + riderFName + " " + riderLName + "!");
+                Console.WriteLine("\nWelcome to your Katok Account, " + riderFName + " " + riderLName + "!");
                 Console.WriteLine("A - Enter Client Details \nB - View my Profile");
                 Console.Write("What iDrop Services would you like to use? " + "\n");
                 choice = Convert.ToChar(Console.ReadLine());
