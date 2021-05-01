@@ -11,7 +11,7 @@ namespace Methods
             string userPassword = "test";
             string userName = "Hannah Liwanag";
             string getID, getPassword, getName;
-
+            
             Console.WriteLine("Welcome to Katok Rider Hub! Login to your account now!");
             Console.Write("\nName: ");
             getName = Console.ReadLine();
@@ -19,7 +19,7 @@ namespace Methods
             getID = Console.ReadLine();
             Console.Write("Password: ");
             getPassword = Console.ReadLine();
-            
+
             if(getName == userName && getID == userID && getPassword == userPassword){
                 Home();
             }
