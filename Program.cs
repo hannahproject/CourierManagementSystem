@@ -9,7 +9,7 @@ namespace Methods
         {
             string userID = "000K1";
             string userPassword = "test";
-            string userName = "Hannah Liwanag";
+            string userName = "Hannah";
             string getID, getPassword, getName;
             
             Console.WriteLine("Welcome to Katok Rider Hub. Login to your account now!");
