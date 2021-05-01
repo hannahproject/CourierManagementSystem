@@ -54,7 +54,7 @@ namespace Methods
 
         }
         static List<string> ClientDB(){
-            var clientList = new List<string>(){"Judea","Aliyah","Elton","Erika","Jerrica","Jing","Ren"};
+            var clientList = new List<string>(){"Judea","Aliyah","Elton","Erika","Jerrica","Jing","Ren","Hannah"};
             return clientList;
         }
         static void DisplayClients(){
