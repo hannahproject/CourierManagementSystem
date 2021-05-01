@@ -19,7 +19,7 @@ namespace Methods
             getID = Console.ReadLine();
             Console.Write("Password: ");
             getPassword = Console.ReadLine();
-
+            
             if(getName == userName && getID == userID && getPassword == userPassword){
                 Home();
             }
