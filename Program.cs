@@ -12,7 +12,7 @@ namespace Methods
             string userName = "Hannah Liwanag";
             string getID, getPassword, getName;
             
-            Console.WriteLine("Welcome to Katok Rider Hub! Login to your account now!");
+            Console.WriteLine("Welcome to Katok Rider Hub. Login to your account now!");
             Console.Write("\nName: ");
             getName = Console.ReadLine();
             Console.Write("User ID: ");
