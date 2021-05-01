@@ -1,0 +1,16 @@
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\HannahBilog\Desktop\c# project\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.csprojAssemblyReference.cache
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\HannahBilog\Desktop\c# project\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
