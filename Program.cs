@@ -52,10 +52,14 @@ namespace Methods
                 break;
             }
         }
+
+        //LIST
         static List<string> ClientDB(){
             var clientList = new List<string>(){"Judea","Aliyah","Elton","Erika","Jerrica","Jing","Ren","Hannah", "Connie"};
             return clientList;
         }
+
+        //TO OUTPUT THE LIST
         static void DisplayClients(){
             Console.WriteLine($"\nList of Clients:");
             foreach (var client in ClientDB()){
@@ -63,6 +67,8 @@ namespace Methods
             }
             Home();
         }
+
+        //TO SEARCH FOR A CLIENT
         static void FindClient(){
             string find;
 
@@ -79,7 +85,8 @@ namespace Methods
                 Home();
             }
         }
-        //TO END THE PROGRAM
+
+        //TO END THE
         static void Logout(){
             Console.WriteLine("\nLogging out now...");
             System.Environment.Exit(0);
