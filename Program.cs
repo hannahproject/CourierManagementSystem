@@ -79,7 +79,7 @@ namespace Methods
                 Home();
             }
         }
-
+        //TO END THE PROGRAM
         static void Logout(){
             Console.WriteLine("\nLogging out now...");
             System.Environment.Exit(0);
