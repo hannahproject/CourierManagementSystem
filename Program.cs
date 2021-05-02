@@ -56,7 +56,7 @@ namespace Methods
         //LIST
         static List<string> ClientDB(){
             var clientList = new List<string>(){"Judea","Aliyah","Elton","Erika","Jerrica","Jing","Ren","Hannah", "Connie"};
-            return clientList;
+            return clientList; //returns the list
         }
 
         //TO OUTPUT THE LIST
