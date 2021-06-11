@@ -1,0 +1,16 @@
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\SOC.exe
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\SOC.deps.json
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\SOC.runtimeconfig.json
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\SOC.runtimeconfig.dev.json
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\SOC.dll
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\ref\SOC.dll
+C:\Users\HannahBilog\Desktop\SOC\bin\Debug\net5.0\SOC.pdb
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.csprojAssemblyReference.cache
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.AssemblyInfoInputs.cache
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.AssemblyInfo.cs
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.csproj.CoreCompileInputs.cache
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.dll
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\ref\SOC.dll
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.pdb
+C:\Users\HannahBilog\Desktop\SOC\obj\Debug\net5.0\SOC.genruntimeconfig.cache
